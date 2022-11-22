@@ -1,0 +1,23 @@
+{
+  "name": "product_slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 3000 . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkasa/product_slider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkasa/product_slider/issues"
+  },
+  "homepage": "https://github.com/venkasa/product_slider#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
